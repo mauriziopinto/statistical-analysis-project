@@ -6,3 +6,6 @@ __pycache__/
 *.egg-info/
 *.txt
 !requirements.txt
+report_content.md
+generate_report.py
+Statistical_Analysis_Report.docx

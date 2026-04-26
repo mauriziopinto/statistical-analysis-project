@@ -1,7 +1,7 @@
 [project]
 name = "statistical-analysis-project"
 version = "0.1.0"
-description = "Add your description here"
+description = "Statistical analysis of US medical insurance costs using descriptive statistics, visualizations, and hypothesis testing"
 readme = "README.md"
 requires-python = ">=3.11"
 dependencies = [
